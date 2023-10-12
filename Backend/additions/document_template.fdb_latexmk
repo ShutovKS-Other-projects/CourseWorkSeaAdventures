@@ -1,7 +1,7 @@
 # Fdb version 4
-["pdflatex"] 1696191678 "c:/Users/ShutovKS/projects/CourseWorkSeaAdventures/Backend/additions/document_template.tex" "document_template.pdf" "document_template" 1696191679 2
-  "../mirea-prog-lang.cls" 1686845454 6695 f401e5ba203592eb7fc89ad6d6e24c1e ""
-  "c:/Users/ShutovKS/projects/CourseWorkSeaAdventures/Backend/additions/document_template.tex" 1696191497 4406 37a52677a06cfc67068cf30e28e9d88c ""
+["pdflatex"] 1697010137 "c:/Users/ShutovKS/projects/CourseWorkSeaAdventures/Backend/additions/document_template.tex" "document_template.pdf" "document_template" 1697010140 2
+  "../mirea-prog-lang.cls" 1696192647 6778 2de13825ce1352aa7eedde4132adc53a ""
+  "c:/Users/ShutovKS/projects/CourseWorkSeaAdventures/Backend/additions/document_template.tex" 1697010127 20097 15e5002648c38f51c0bcd6de3d74510d ""
   "d:/Program Files/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1695627565 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "d:/Program Files/texlive/2023/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1695625186 1288 655e228510b4c2a1abe905c368440826 ""
   "d:/Program Files/texlive/2023/texmf-dist/tex/generic/atbegshi/atbegshi.sty" 1695622409 24708 5584a51a7101caf7e6bbf1fc27d8f7b1 ""
@@ -54,8 +54,8 @@
   "d:/Program Files/texlive/2023/texmf-dist/web2c/texmf.cnf" 1695621979 40967 d940221f8762fd5848760382d97d1226 ""
   "d:/Program Files/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1695641890 8183460 27717b5229a82890c70eb8a1dc01a117 ""
   "d:/Program Files/texlive/2023/texmf.cnf" 1695636306 713 e69b156964470283e0530f5060668171 ""
-  "document_template.aux" 1696191678 34 3985256e7290058c681f74d7a3565a19 "pdflatex"
-  "document_template.tex" 1696191497 4406 37a52677a06cfc67068cf30e28e9d88c ""
+  "document_template.aux" 1697010137 34 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "document_template.tex" 1697010127 20097 15e5002648c38f51c0bcd6de3d74510d ""
   (generated)
   "document_template.aux"
   "document_template.log"

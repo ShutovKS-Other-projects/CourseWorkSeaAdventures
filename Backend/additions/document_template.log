@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.25)  1 OCT 2023 23:43
+This is XeTeX, Version 3.141592653-2.6-0.999995 (TeX Live 2023) (preloaded format=xelatex 2023.9.25)  12 OCT 2023 10:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -695,72 +695,80 @@ File: ppxetex.def 2022/12/19 v0.5x Pdfpages driver for XeTeX (AM)
 \c@AM@survey=\count317
 \AM@templatesizebox=\box61
 )
+(d:/Program Files/texlive/2023/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count318
+\float@exts=\toks35
+\float@box=\box62
+\@float@everytoks=\toks36
+\@floatcapt=\box63
+)
 (./document_template.aux)
 \openout1 = `document_template.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 12.
+LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 22.
 LaTeX Font Info:    Trying to load font information for OML+ntxmi on input line
- 12.
+ 22.
 
 (d:/Program Files/texlive/2023/texmf-dist/tex/latex/newtx/omlntxmi.fd
 File: omlntxmi.fd 2015/08/25 Fontinst v1.933 font definitions for OML/ntxmi.
 )
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 12.
-LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 1
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 2
 2.
 
 (d:/Program Files/texlive/2023/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 22.
 LaTeX Font Info:    Trying to load font information for U+ntxexa on input line 
-12.
+22.
 
 (d:/Program Files/texlive/2023/texmf-dist/tex/latex/newtx/untxexa.fd
 File: untxexa.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxexa.
 )
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 22.
 LaTeX Font Info:    Trying to load font information for LMS+ntxsy on input line
- 12.
+ 22.
 
 (d:/Program Files/texlive/2023/texmf-dist/tex/latex/newtx/lmsntxsy.fd
 File: lmsntxsy.fd 2016/07/02 Fontinst v1.933 font definitions for LMS/ntxsy.
 )
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 22.
 LaTeX Font Info:    Trying to load font information for LMX+ntxexx on input lin
-e 12.
+e 22.
 
 (d:/Program Files/texlive/2023/texmf-dist/tex/latex/newtx/lmxntxexx.fd
 File: lmxntxexx.fd 2016/07/03 Fontinst v1.933 font definitions for LMX/ntxexx.
 )
-LaTeX Font Info:    ... okay on input line 12.
-Package hyperref Info: Link coloring OFF on input line 12.
+LaTeX Font Info:    ... okay on input line 22.
+Package hyperref Info: Link coloring OFF on input line 22.
 
 (./document_template.out) (./document_template.out)
 \@outlinefile=\write3
 \openout3 = `document_template.out'.
 
-LaTeX Info: Redefining \th on input line 12.
-LaTeX Info: Command `\dddot' is already robust on input line 12.
-LaTeX Info: Command `\ddddot' is already robust on input line 12.
+LaTeX Info: Redefining \th on input line 22.
+LaTeX Info: Command `\dddot' is already robust on input line 22.
+LaTeX Info: Command `\ddddot' is already robust on input line 22.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -797,6 +805,7 @@ LaTeX Info: Command `\ddddot' is already robust on input line 12.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
 Package caption Info: End \AtBeginDocument code.
 (d:/Program Files/texlive/2023/texmf-dist/tex/latex/pdflscape/pdflscape.sty
 Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
@@ -881,16 +890,268 @@ File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
 
 ] [5
 
-] [6
-
-] [7
-
-] [8
-
-] [9
+] [6] [7]
+Underfull \hbox (badness 10000) in paragraph at lines 154--154
+[]\TU/TimesNewRoman(0)/m/n/14.4 Графика и
+ []
 
 
-] [10
+Underfull \hbox (badness 10000) in paragraph at lines 154--154
+\TU/TimesNewRoman(0)/m/n/14.4 визуальный
+ []
+
+
+Underfull \hbox (badness 1360) in paragraph at lines 154--154
+[]\TU/TimesNewRoman(0)/m/n/14.4 Очень реалистич-
+ []
+
+
+Underfull \hbox (badness 2744) in paragraph at lines 154--154
+\TU/TimesNewRoman(0)/m/n/14.4 ванная подводная
+ []
+
+
+Underfull \hbox (badness 2626) in paragraph at lines 154--154
+\TU/TimesNewRoman(0)/m/n/14.4 графика с потря-
+ []
+
+
+Underfull \hbox (badness 1242) in paragraph at lines 154--154
+\TU/TimesNewRoman(0)/m/n/14.4 ми существами и
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 154--154
+[]\TU/TimesNewRoman(0)/m/n/14.4 Красочная и де-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 154--154
+\TU/TimesNewRoman(0)/m/n/14.4 тальная графика
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 154--154
+\TU/TimesNewRoman(0)/m/n/14.4 подводного мира
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 154--154
+\TU/TimesNewRoman(0)/m/n/14.4 с разнообразием
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 154--154
+\TU/TimesNewRoman(0)/m/n/14.4 подводных су-
+ []
+
+
+Underfull \hbox (badness 1874) in paragraph at lines 154--154
+[]\TU/TimesNewRoman(0)/m/n/14.4 Красочная и реа-
+ []
+
+
+Underfull \hbox (badness 3058) in paragraph at lines 154--154
+\TU/TimesNewRoman(0)/m/n/14.4 листичная графи-
+ []
+
+
+Overfull \hbox (5.32083pt too wide) in paragraph at lines 150--157
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 162--162
+[]\TU/TimesNewRoman(0)/m/n/14.4 Модификации
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 164--164
+[]\TU/TimesNewRoman(0)/m/n/14.4 Игровой
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 164--164
+\TU/TimesNewRoman(0)/m/n/14.4 геймплей и
+ []
+
+
+Underfull \hbox (badness 7256) in paragraph at lines 164--164
+\TU/TimesNewRoman(0)/m/n/14.4 блюдение без ак-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 164--164
+[]\TU/TimesNewRoman(0)/m/n/14.4 Выживание и
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 164--164
+\TU/TimesNewRoman(0)/m/n/14.4 исследование с
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 164--164
+\TU/TimesNewRoman(0)/m/n/14.4 удовлетворитель-
+ []
+
+
+Underfull \hbox (badness 4096) in paragraph at lines 164--164
+\TU/TimesNewRoman(0)/m/n/14.4 ным управлением.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 164--164
+\TU/TimesNewRoman(0)/m/n/14.4 Можно потребо-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 164--164
+\TU/TimesNewRoman(0)/m/n/14.4 ваться настройка
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 164--164
+[]\TU/TimesNewRoman(0)/m/n/14.4 Исследование и
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 164--164
+\TU/TimesNewRoman(0)/m/n/14.4 образовательные
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 164--164
+\TU/TimesNewRoman(0)/m/n/14.4 моменты, интуи-
+ []
+
+
+Underfull \hbox (badness 1097) in paragraph at lines 166--166
+[]\TU/TimesNewRoman(0)/m/n/14.4 Иммерсия и
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 166--166
+[]\TU/TimesNewRoman(0)/m/n/14.4 Потрясающая
+ []
+
+
+Underfull \hbox (badness 5954) in paragraph at lines 166--166
+\TU/TimesNewRoman(0)/m/n/14.4 иммерсия и ощу-
+ []
+
+
+Underfull \hbox (badness 1158) in paragraph at lines 166--166
+[]\TU/TimesNewRoman(0)/m/n/14.4 Глубокая атмосфе-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 166--166
+[]\TU/TimesNewRoman(0)/m/n/14.4 Увлекательная
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 166--166
+\TU/TimesNewRoman(0)/m/n/14.4 том на образова-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 168--168
+[]\TU/TimesNewRoman(0)/m/n/14.4 Оценки
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 168--168
+\TU/TimesNewRoman(0)/m/n/14.4 пользовате-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 168--168
+[]\TU/TimesNewRoman(0)/m/n/14.4 Положительные
+ []
+
+
+Underfull \hbox (badness 2875) in paragraph at lines 168--168
+\TU/TimesNewRoman(0)/m/n/14.4 отзывы с высоки-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 168--168
+\TU/TimesNewRoman(0)/m/n/14.4 ми оценками за
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 168--168
+\TU/TimesNewRoman(0)/m/n/14.4 визуализацию и
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 168--168
+[]\TU/TimesNewRoman(0)/m/n/14.4 Высокие оценки
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 168--168
+\TU/TimesNewRoman(0)/m/n/14.4 за увлекатель-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 168--168
+\TU/TimesNewRoman(0)/m/n/14.4 ный геймплей и
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 168--168
+[]\TU/TimesNewRoman(0)/m/n/14.4 Положительные
+ []
+
+
+Underfull \hbox (badness 5147) in paragraph at lines 168--168
+\TU/TimesNewRoman(0)/m/n/14.4 отзывы с призна-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 168--168
+\TU/TimesNewRoman(0)/m/n/14.4 нием образова-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 168--168
+\TU/TimesNewRoman(0)/m/n/14.4 тельной ценности
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 168--168
+\TU/TimesNewRoman(0)/m/n/14.4 и визуальных
+ []
+
+
+Overfull \hbox (15.27902pt too wide) in paragraph at lines 160--170
+[][] 
+ []
+
+[8]
+Overfull \hbox (8.55965pt too wide) in paragraph at lines 183--184
+\TU/TimesNewRoman(0)/m/n/14.4 сцен, например Unity, Unreal Engine, GameMaker St
+udio, Construct, Godot; 
+ []
+
+[9]
+Overfull \hbox (0.60548pt too wide) in paragraph at lines 190--191
+[]\TU/TimesNewRoman(0)/m/n/14.4 Для реализации проекта будет использован следую
+щий инструменталь-
+ []
+
+[10] [11] [12] [13
+
+] [14
+
+] [15
+
+] [16
+
+
+] [17
 
 
 ] (./document_template.aux)
@@ -907,15 +1168,15 @@ LaTeX Font Warning: Size substitutions with differences
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `document_template.out' has not changed.
-(rerunfilecheck)             Checksum: BEB8A5628DC3EE852C57A6520D93802B;1479.
+(rerunfilecheck)             Checksum: D47610A68FBEC89F3C53DBECDF199E1B;2748.
  ) 
 Here is how much of TeX's memory you used:
- 19373 strings out of 475585
- 352057 string characters out of 5770892
- 1919416 words of memory out of 5000000
- 40431 multiletter control sequences out of 15000+600000
+ 19442 strings out of 475585
+ 353246 string characters out of 5770892
+ 1922416 words of memory out of 5000000
+ 40496 multiletter control sequences out of 15000+600000
  569253 words of font info for 78 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  94i,17n,131p,745b,526s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on document_template.pdf (10 pages).
+Output written on document_template.pdf (17 pages).
